@@ -1,1 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2023-01-14T19:50:32.922Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="G3ccDRwjmtGbOomeEjIA" type="github"><diagram id="TeKniJZp_vDueWmovJAp">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-14T20:00:14.953Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="YMLYcM0uG8iVbCCHQPpr" type="github">
+  <diagram id="pGXkjbOXJx0A95xAq9Cl" name="ユースケース図">
+    <mxGraphModel dx="954" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J4JLZSJi3leQ0Pwu1PUu-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;strokeColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="J4JLZSJi3leQ0Pwu1PUu-2" target="J4JLZSJi3leQ0Pwu1PUu-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J4JLZSJi3leQ0Pwu1PUu-2" value="Staff" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="84" y="232" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J4JLZSJi3leQ0Pwu1PUu-3" value="Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="232" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J4JLZSJi3leQ0Pwu1PUu-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="50" width="520" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="J4JLZSJi3leQ0Pwu1PUu-5" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;出退勤打刻&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J4JLZSJi3leQ0Pwu1PUu-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="J4JLZSJi3leQ0Pwu1PUu-7" target="J4JLZSJi3leQ0Pwu1PUu-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J4JLZSJi3leQ0Pwu1PUu-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;走行距離入力&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="204" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J4JLZSJi3leQ0Pwu1PUu-8" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;fontSize=16;endArrow=none;endFill=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="J4JLZSJi3leQ0Pwu1PUu-10" target="J4JLZSJi3leQ0Pwu1PUu-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="108" y="384" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J4JLZSJi3leQ0Pwu1PUu-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="J4JLZSJi3leQ0Pwu1PUu-10" target="J4JLZSJi3leQ0Pwu1PUu-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J4JLZSJi3leQ0Pwu1PUu-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;就業時間・走行距離・給与確認&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="288" width="360" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J4JLZSJi3leQ0Pwu1PUu-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;fontSize=16;endArrow=none;endFill=0;" edge="1" parent="1" source="J4JLZSJi3leQ0Pwu1PUu-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="252" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J4JLZSJi3leQ0Pwu1PUu-12" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;全就業時間・走行距離・給与確認&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="372" width="360" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
