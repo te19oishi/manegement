@@ -1,0 +1,2 @@
+# manegement
+diagrams
